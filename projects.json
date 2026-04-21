@@ -1,0 +1,11 @@
+[
+  {
+
+    "title": "Meltius",
+    "description": "Melitius is a machine learning–based web application designed to predict diabetes risk using user health data. It leverages linear regression and decision tree algorithms enhanced with gradient techniques to deliver accurate and data-driven predictions.",
+    "image": "project1.png",
+    "tech": ["ML", "Supervised algorithms", "FastAPI"],
+    "github": "https://github.com/yourusername/project1",
+    "demo": "https://yourproject.com"
+  }
+]
