@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 node_modules
 .env
 .vscode
+=======
+node_modules
+.env
+
+.vscode
+>>>>>>> d2cf147 (initial portfolio setup)
